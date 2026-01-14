@@ -5,7 +5,7 @@ from tkinter import ttk
 class SubnetUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Subnet Calculator")
+        self.root.title("Subnet Identifier")
         self.root.geometry("700x500")
 
         self.mode = tk.StringVar(value="prefix")
