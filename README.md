@@ -69,10 +69,6 @@ python App.py
 <img width="693" height="524" alt="image" src="https://github.com/user-attachments/assets/ce9d5fdc-20cf-441c-8e46-e74c140f9bd1" />
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 https://github.com/donmalya-tech
