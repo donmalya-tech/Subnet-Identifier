@@ -1,6 +1,6 @@
 # Subnet Identifier GUI
 
-A Python-based subnet calculator with a graphical user interface (GUI) using Tkinter. This application allows users to calculate subnet information, split networks into subnets by prefix or by required number of hosts, and export the results to a CSV file. It supports both IPv4 and IPv6 networks.
+A Python-based subnet identifier with a graphical user interface (GUI) using Tkinter. This application allows users to calculate subnet information, split networks into subnets by prefix or by required number of hosts, and export the results to a CSV file. It supports both IPv4 and IPv6 networks.
 
 ## Features
 
@@ -34,8 +34,8 @@ project/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/subnet-calculator.git
-   cd subnet-calculator
+   git clone https://github.com/donmalya-tech/Subnet-Identfier.git
+   cd Subnet-Identifier
    ```
 
 2. Make sure you have Python 3.8+ installed.
@@ -75,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-* **Your Name** - [GitHub Profile](https://github.com/donmalya-tech)
+https://github.com/donmalya-tech
