@@ -70,5 +70,4 @@ python App.py
 
 
 ## Author
-
-## Innocent Malya (donmalya-tech)
+- Innocent Malya (donmalya-tech)
