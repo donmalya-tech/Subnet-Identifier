@@ -71,4 +71,4 @@ python App.py
 
 ## Author
 
-https://github.com/donmalya-tech
+## Innocent Malya (donmalya-tech)
